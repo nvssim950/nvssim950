@@ -1,6 +1,9 @@
 <h2 align="center">Hi 👋! My name is Baheddi Nassim and I'm a Full Stack Web developer</h2>
 
 
+<br/>
+<br/>
+<br/>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
@@ -19,7 +22,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
 </div>
-
+<br/>
+<br/>
 
 
 <div align="center">
