@@ -1,3 +1,36 @@
+<!-- ===== HEADER BANNER ===== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Nassim%20Baheddi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20Building%20digital%20experiences&descAlignY=58&descAlign=50&descSize=18" alt="header"/>
+</div>
+
+<!-- ===== TYPING INTRO ===== -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=5EEAD4&center=true&vCenter=true&width=600&lines=Welcome+to+my+corner+of+GitHub+%F0%9F%91%8B;Crafting+clean%2C+scalable+web+apps;Turning+ideas+into+real+products;Let's+build+something+great+together" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
+<!-- ===== ABOUT ME ===== -->
+<h2 align="center">👨‍💻 About Me</h2>
+
+<table align="center">
+  <tr>
+    <td>
+
+```typescript
+const nassim = {
+  name:      "Baheddi Nassim",
+  role:      "Full Stack Web Developer",
+  location:  "Algeria 🇩🇿",
+  focus:     ["React", "Next.js", "Node.js"],
+  learning:  ["System Design", "DevOps"],
+  interests: ["Clean UI", "Scalable Apps", "Problem Solving"],
+  motto:     "Code. Learn. Repeat."
+};
+```
+
 </td>
   </tr>
 </table>
@@ -22,39 +55,40 @@
 
 <br/>
 
-<!-- ===== GITHUB STATS ===== -->
-<h2 align="center">📊 GitHub Stats</h2>
+<!-- ===== WHAT I DO ===== -->
+<h2 align="center">💡 What I Do</h2>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nvssim950&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5EEAD4&icon_color=5EEAD4&text_color=FFFFFF" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvssim950&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5EEAD4&text_color=FFFFFF" alt="top languages"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nvssim950&theme=tokyonight&hide_border=true&background=0D1117&ring=5EEAD4&fire=5EEAD4&currStreakLabel=5EEAD4" alt="streak"/>
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <h3>🎨</h3>
+        <h4>Frontend</h4>
+        <p>Modern, responsive interfaces built with React & Next.js</p>
+      </td>
+      <td align="center" width="33%">
+        <h3>⚙️</h3>
+        <h4>Backend</h4>
+        <p>Robust APIs and server logic with Node.js & Express</p>
+      </td>
+      <td align="center" width="33%">
+        <h3>🚀</h3>
+        <h4>Full Stack</h4>
+        <p>End-to-end web apps from concept to deployment</p>
+      </td>
+    </tr>
+  </table>
+
 </div>
 
 <br/>
 
-<!-- ===== TROPHIES ===== -->
-<h2 align="center">🏆 Trophies</h2>
-
+<!-- ===== QUOTE ===== -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nvssim950&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="trophies"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote"/>
 </div>
 
-<br/>
-
-<!-- ===== CONTRIBUTION SNAKE ===== -->
-<h2 align="center">🐍 Contribution Graph</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nvssim950/nvssim950/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/nvssim950/nvssim950/blob/output/github-snake-dark.svg" />
-  <img alt="github-snake" src="https://github.com/nvssim950/nvssim950/blob/output/github-snake-dark.svg" />
-</picture>
-
-<br/>
 <br/>
 
 <!-- ===== CONNECT ===== -->
@@ -73,11 +107,6 @@
 </div>
 
 <br/>
-
-<!-- ===== PROFILE VIEWS ===== -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nvssim950&label=Profile%20views&color=5EEAD4&style=flat" alt="profile views"/>
-</div>
 
 <!-- ===== FOOTER WAVE ===== -->
 <div align="center">
