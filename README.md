@@ -8,19 +8,8 @@ Full-stack developer based in Algiers. Engineering student at National Higher Sc
 
 `TypeScript` `JavaScript` `Python` `C` `React` `Next.js` `Node.js` `Tailwind` `PostgreSQL` `Docker` `Linux` `n8n` `Playwright`
 
-&nbsp;
 
-### Contact
 
-<a href="mailto:nassimbaheddi@gmail.com" target="blank">
-  <img src="https://raw.githubusercontent.com/nvssim950/nvssim950/output/email.png" width="40" />
-</a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/nassim-baheddi-079143335" target="blank">
-  <img src="https://raw.githubusercontent.com/nvssim950/nvssim950/output/linkedin.png" width="40" />
-</a>&nbsp;&nbsp;
-<a href="https://www.reddit.com/user/Rayziro/" target="blank">
-  <img src="https://raw.githubusercontent.com/nvssim950/nvssim950/output/reddit.png" width="40" />
-</a>
 
 &nbsp;
 
@@ -31,3 +20,20 @@ Full-stack developer based in Algiers. Engineering student at National Higher Sc
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nvssim950/nvssim950/output/github-snake.svg">
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/nvssim950/nvssim950/output/github-snake.svg">
 </picture>
+
+
+
+&nbsp;
+
+### Contact
+
+<a href="mailto:nassimbaheddi@gmail.com" target="blank">
+  <img src="https://raw.githubusercontent.com/nvssim950/nvssim950/output/email.png" width="40" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/nassim-baheddi-079143335" target="blank">
+  <img src="https://raw.githubusercontent.com/nvssim950/nvssim950/output/linkedin.png" width="40" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.reddit.com/user/Rayziro/" target="blank">
+  <img src="https://raw.githubusercontent.com/nvssim950/nvssim950/output/reddit.png" width="40" />
+</a>
+
