@@ -12,15 +12,17 @@ Full-stack developer based in Algiers. Engineering student at National Higher Sc
 
 ### Contact
 
-<a href="mailto:nassimbaheddi@gmail.com" target="blank">
-  <img src="https://raw.githubusercontent.com/nvssim950/nvssim950/output/email.png" width="40" />
-</a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/nassim-baheddi-079143335" target="blank">
-  <img src="https://raw.githubusercontent.com/nvssim950/nvssim950/output/linkedin.png" width="40" />
-</a>&nbsp;&nbsp;
-<a href="https://www.reddit.com/user/Rayziro/" target="blank">
-  <img src="https://raw.githubusercontent.com/nvssim950/nvssim950/output/reddit.png" width="40" />
-</a>
+<p align="center">
+  <a href="mailto:nassimbaheddi@gmail.com">
+    <img src="https://raw.githubusercontent.com/nvssim950/nvssim950/output/email.png" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/nassim-baheddi-079143335">
+    <img src="https://raw.githubusercontent.com/nvssim950/nvssim950/output/linkedin.png" width="40" />
+  </a>
+  <a href="https://www.reddit.com/user/Rayziro/">
+    <img src="https://raw.githubusercontent.com/nvssim950/nvssim950/output/reddit.png" width="40" />
+  </a>
+</p>
 
 &nbsp;
 
