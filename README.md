@@ -12,11 +12,11 @@ Full-stack developer based in Algiers. Engineering student at National Higher Sc
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/nassim-baheddi-079143335) 
+[LinkedIn](https://www.linkedin.com/in/nassim-baheddi-079143335) ;
 &nbsp;
-[Email](mailto:nassimbaheddi@gmail.com)
+[Email](mailto:nassimbaheddi@gmail.com);
 &nbsp;
-[Reddit](https://www.reddit.com/user/Rayziro/)
+[Reddit](https://www.reddit.com/user/Rayziro/);
 
 &nbsp;
 
