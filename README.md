@@ -1,34 +1,23 @@
-<h1 align="center">Nassim Baheddi</h1>     
-                                                                                                           
-  <p align="center">                                                                                       
-    <kbd>AUTOMATION</kbd> &nbsp; <kbd>AGENTS</kbd> &nbsp; <kbd>WEB</kbd> &nbsp; <kbd>UI / UX</kbd>         
-  </p>                                                                                                     
-                                                  
-  <p align="center"><em>Building automations & AI agents that actually ship.</em></p>                      
-                                                  
-  <br>                                                                                                   
+# Nassim Baheddi
 
-  <p align="center">
-  I build n8n flows, agents, and full-stack web apps end-to-end <br>
-  for founders who want output, not opinions.                                                              
-  </p>
-                                                                                                           
-  <br>                                            
-                                                                                                         
-  ---
+Full-stack developer based in Algiers. Engineering student at National Higher School of Computer Science.
 
-  ### Now
+Currently focused on building clean, maintainable web applications and learning more about system design.
 
-  - Shipping small AI agents that do one job well
-  - Third year CS at ESI Algiers
-  - Open for freelance automations, agents, web                                                          
-  
-  ### Stack                                                                                                
-                                                  
-  `n8n` · `OpenAI` · `Anthropic` · `LangChain` · `Next.js` · `TypeScript` · `Tailwind` · `Python` ·        
-  `Postgres` · `Supabase` · `Figma`
-                                                                                                           
-  ### Elsewhere                                   
-                                                                                                         
-  [LinkedIn](https://www.linkedin.com/in/nassim-baheddi-079143335) · [X](https://x.com/BaheddiN52174) ·    
-  [Email](mailto:nassimbaheddi@gmail.com)
+&nbsp;
+
+### Stack
+
+`TypeScript` `JavaScript` `Python` `C` `React` `Next.js` `Node.js` `Tailwind` `PostgreSQL` `Docker` `Linux` `n8n` `Playwright`
+
+&nbsp;
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/nassim-baheddi-079143335) · [Email](mailto:nassimbaheddi@gmail.com) · [Reddit](https://www.reddit.com/user/Rayziro/)
+
+&nbsp;
+
+---
+
+![snake](https://raw.githubusercontent.com/nvssim-95/nvssim-95/output/github-contribution-grid-snake-dark.svg)
