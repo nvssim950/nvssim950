@@ -1,114 +1,54 @@
-<!-- ===== HEADER BANNER ===== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Nassim%20Baheddi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20Building%20digital%20experiences&descAlignY=58&descAlign=50&descSize=18" alt="header"/>
-</div>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Nassim Baheddi Full Stack Web Developer">
+  <defs>
+    <radialGradient id="spot" cx="22%" cy="40%" r="55%">
+      <stop offset="0%" stop-color="#f5f5f0" stop-opacity="0.10"/>
+      <stop offset="55%" stop-color="#f5f5f0" stop-opacity="0.02"/>
+      <stop offset="100%" stop-color="#f5f5f0" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="spot2" cx="85%" cy="75%" r="40%">
+      <stop offset="0%" stop-color="#c9c4b8" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#c9c4b8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#ffffff" stroke-opacity="0.035" stroke-width="0.5"/>
+    </pattern>
+    <filter id="noise">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch"/>
+      <feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 0.08 0"/>
+    </filter>
+  </defs>
 
-<!-- ===== TYPING INTRO ===== -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=5EEAD4&center=true&vCenter=true&width=600&lines=Welcome+to+my+corner+of+GitHub+%F0%9F%91%8B;Crafting+clean%2C+scalable+web+apps;Turning+ideas+into+real+products;Let's+build+something+great+together" alt="Typing SVG" />
-  </a>
-</div>
+  <!-- base -->
+  <rect width="1200" height="320" fill="#0a0a0a"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+  <rect width="1200" height="320" fill="url(#spot)"/>
+  <rect width="1200" height="320" fill="url(#spot2)"/>
+  <rect width="1200" height="320" filter="url(#noise)" opacity="0.55"/>
 
-<br/>
+  <!-- hairline frame -->
+  <rect x="0.5" y="0.5" width="1199" height="319" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
 
-<!-- ===== ABOUT ME ===== -->
-<h2 align="center">👨‍💻 About Me</h2>
+  <!-- small-caps mono label -->
+  <g font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" fill="#a8a39a">
+    <text x="80" y="110" font-size="11" letter-spacing="4" opacity="0.75">— PORTFOLIO / 2026</text>
+    <line x1="80" y1="124" x2="150" y2="124" stroke="#a8a39a" stroke-opacity="0.4" stroke-width="0.5"/>
+  </g>
 
-<table align="center">
-  <tr>
-    <td>
+  <!-- display headline -->
+  <text x="78" y="200" font-family="Georgia, 'Times New Roman', serif" font-size="82" font-style="italic" font-weight="400" fill="#efece5" letter-spacing="-1">
+    Nassim Baheddi<tspan fill="#8a8478" font-style="normal">.</tspan>
+  </text>
 
-```typescript
-const nassim = {
-  name:      "Baheddi Nassim",
-  role:      "Full Stack Web Developer",
-  location:  "Algeria 🇩🇿",
-  focus:     ["React", "Next.js", "Node.js"],
-  learning:  ["System Design", "DevOps"],
-  interests: ["Clean UI", "Scalable Apps", "Problem Solving"],
-  motto:     "Code. Learn. Repeat."
-};
-```
+  <!-- subline mono -->
+  <text x="80" y="240" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#8a8478" letter-spacing="1">
+    full-stack engineer &#8212; building quiet, scalable interfaces on the web.
+  </text>
 
-</td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ===== TECH STACK ===== -->
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<div align="center">
-
-  <p><strong>Languages</strong></p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,c,html,css" alt="languages"/>
-
-  <p><strong>Frameworks & Libraries</strong></p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,express" alt="frameworks"/>
-
-  <p><strong>Tools & Platforms</strong></p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,docker,postman" alt="tools"/>
-
-</div>
-
-<br/>
-
-<!-- ===== WHAT I DO ===== -->
-<h2 align="center">💡 What I Do</h2>
-
-<div align="center">
-
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <h3>🎨</h3>
-        <h4>Frontend</h4>
-        <p>Modern, responsive interfaces built with React & Next.js</p>
-      </td>
-      <td align="center" width="33%">
-        <h3>⚙️</h3>
-        <h4>Backend</h4>
-        <p>Robust APIs and server logic with Node.js & Express</p>
-      </td>
-      <td align="center" width="33%">
-        <h3>🚀</h3>
-        <h4>Full Stack</h4>
-        <p>End-to-end web apps from concept to deployment</p>
-      </td>
-    </tr>
-  </table>
-
-</div>
-
-<br/>
-
-<!-- ===== QUOTE ===== -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote"/>
-</div>
-
-<br/>
-
-<!-- ===== CONNECT ===== -->
-<h2 align="center">🌐 Let's Connect</h2>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/nassim-baheddi-079143335/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:nassimbdm@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.instagram.com/nvssim_95/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</div>
-
-<br/>
-
-<!-- ===== FOOTER WAVE ===== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer"/>
-</div>
+  <!-- corner mono meta -->
+  <g font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#6e685d" letter-spacing="2">
+    <text x="80" y="56" opacity="0.8">N / 01</text>
+    <text x="1120" y="56" text-anchor="end" opacity="0.8">DZ · 36.7°N</text>
+    <text x="80" y="290" opacity="0.8">INDEX —</text>
+    <text x="1120" y="290" text-anchor="end" opacity="0.8">README.MD</text>
+  </g>
+</svg>
