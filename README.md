@@ -1,33 +1,56 @@
+<div align="center">
+
+&nbsp;
+
 # Nassim Baheddi
 
-> Full-stack web developer based in Algeria. I build clean, scalable web applications end-to-end.
+<sub><code>FULL-STACK&nbsp;&nbsp;·&nbsp;&nbsp;ALGIERS&nbsp;&nbsp;·&nbsp;&nbsp;EST. 2024</code></sub>
+
+&nbsp;
+
+*Building quiet, considered software —*
+*interfaces that get out of the way, and systems that hold up under weight.*
+
+&nbsp;
+
+</div>
 
 ---
 
-### About
+### &nbsp;&nbsp;`01` &nbsp;&nbsp; About
 
-I work across the stack — from database schema to the last pixel. I care about interfaces that don't demand attention, architectures that don't break on Tuesday, and code the next person can read.
+Engineering student at **École Nationale Polytechnique**, writing code somewhere between the frontend and the database. I care about the small things: spacing, latency, the difference between a component that works and one that feels right.
 
-Currently focused on **React**, **Next.js**, and **Node.js**. Learning system design and DevOps on the side.
+Currently drawn to system design, the internals of the tools I use every day, and shipping things that don't embarrass me six months later.
+
+&nbsp;
+
+### &nbsp;&nbsp;`02` &nbsp;&nbsp; Stack
+
+```
+languages       typescript  ·  javascript  ·  python  ·  c
+frontend        react  ·  next.js  ·  tailwind
+backend         node  ·  express  ·  postgres
+tooling         git  ·  docker  ·  linux  ·  vscode
+learning        system design  ·  devops  ·  distributed systems
+```
+
+&nbsp;
+
+### &nbsp;&nbsp;`03` &nbsp;&nbsp; Principles
+
+> Readable code outlives clever code. &nbsp;Whitespace is a feature. &nbsp;Ship, then polish.
+
+&nbsp;
+
+### &nbsp;&nbsp;`04` &nbsp;&nbsp; Elsewhere
+
+&nbsp;&nbsp;&nbsp;&nbsp;[**linkedin**](https://www.linkedin.com/in/nassim-baheddi-079143335/) &nbsp;·&nbsp; [**email**](mailto:nassimbdm@gmail.com) &nbsp;·&nbsp; [**instagram**](https://www.instagram.com/nvssim_95/)
+
+&nbsp;
 
 ---
 
-### Stack
-
-**Languages** &nbsp;&nbsp; `TypeScript` `JavaScript` `Python` `C` `HTML` `CSS`
-
-**Frameworks** &nbsp;&nbsp; `React` `Next.js` `Node.js` `Express` `Tailwind`
-
-**Tools** &nbsp;&nbsp; `Git` `Docker` `Linux` `Postman` `VS Code`
-
----
-
-### Contact
-
-- **Email** — [nassimbdm@gmail.com](mailto:nassimbdm@gmail.com)
-- **LinkedIn** — [in/nassim-baheddi](https://www.linkedin.com/in/nassim-baheddi-079143335/)
-- **Instagram** — [@nvssim_95](https://www.instagram.com/nvssim_95/)
-
----
-
-<sub>Open to remote work and collaboration.</sub>
+<div align="center">
+<sub><code>— end of file —</code></sub>
+</div>
