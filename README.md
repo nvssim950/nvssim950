@@ -2,8 +2,6 @@
 
 Full-stack developer based in Algiers. Engineering student at National Higher School of Computer Science.
 
-Currently focused on building clean, maintainable web applications and learning more about system design.
-
 &nbsp;
 
 ### Stack
@@ -14,7 +12,9 @@ Currently focused on building clean, maintainable web applications and learning 
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/nassim-baheddi-079143335) · [Email](mailto:nassimbaheddi@gmail.com) · [Reddit](https://www.reddit.com/user/Rayziro/)
+[LinkedIn](https://www.linkedin.com/in/nassim-baheddi-079143335) 
+[Email](mailto:nassimbaheddi@gmail.com)
+[Reddit](https://www.reddit.com/user/Rayziro/)
 
 &nbsp;
 
